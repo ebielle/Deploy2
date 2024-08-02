@@ -2,6 +2,13 @@ server:
   port: 5000
 
 ---
+environment: integration
+myDevNameTree:
+  devName: "Erika"
+server:
+  port: 3000
+
+---
 environment: test
 server:
   port: 4000
